@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<JDBC>
+<a>
+<DRIVER>com.mysql.jdbc..Driver</DRIVER>
+<URL>jdbc:mysql://localhost:3306/sms</URL>
+<USRE>root</USRE>
+<PASSWORD>123456</PASSWORD>
+</a>
+</JDBC>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<ab>
+			<id>1</id>
+			<name>小狗</name>
+			<sex>女</sex>
+			<age>18</age>
+		</ab>
+	</student>
+	<student>
+		<ab>
+			<id>2</id>
+			<name>小明</name>
+			<sex>男</sex>
+			<age>22</age>
+		</ab>
+
+	</student>
+	<student>
+		<ab>
+			<id>3</id>
+			<name>小狗</name>
+			<sex>男</sex>
+			<age>24</age>
+		</ab>
+
+	</student>
+
+</students>
